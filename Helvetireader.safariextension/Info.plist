@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Helvetireader</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.helvetireader.safari</string>
+	<string>com.helvetireader.safari.Helvetireader</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -45,7 +45,9 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/ronny/helvetireader-safari-extension/raw/master/latest.plist</string>
 	<key>Website</key>
-	<string>http://helvetireader.com/</string>
+	<string>http://github.com/ronny/helvetireader-safari-extension</string>
 </dict>
 </plist>
