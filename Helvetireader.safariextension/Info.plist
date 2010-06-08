@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Ronny Haryanto</string>
+	<key>CFBundleDisplayName</key>
+	<string>Helvetireader</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.helvetireader.safari</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>helvetireader.user.js</string>
+			</array>
+		</dict>
+		<key>Whitelist</key>
+		<array>
+			<string>https://*.google.com/reader/view/*</string>
+			<string>http://*.google.com/reader/view/*</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>Helvetireader skin for Google Reader</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>http://helvetireader.com/</string>
+</dict>
+</plist>
