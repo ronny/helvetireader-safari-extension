@@ -1,2 +1,36 @@
 Safari 5 Extension for Helvetireader
 http://helvetireader.com
+
+
+
+How to Install
+--------------
+
+1. Download Helvetireader.safariextz
+
+	http://github.com/downloads/ronny/helvetireader-safari-extension/Helvetireader.safariextz
+
+2. Double click the .safariextz file to install in Safari 5 and follow the prompts
+
+
+
+CREDITS
+-------
+
+Helvetireader by Jon Hicks (http://www.hicksdesign.co.uk) with favicon override by MkFly
+
+I (ronny) simply repackaged it for Safari 5.
+
+
+
+ISSUES / SUPPORT
+----------------
+
+This extension comes with NO WARRANTY whatsoever. But feel free to log any issues in
+http://github.com/ronny/helvetireader-safari-extension/issues
+
+
+
+
+Have fun!
+-- Ronny Haryanto
