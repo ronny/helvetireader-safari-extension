@@ -7,7 +7,7 @@
      <dict>
        <key>CFBundleIdentifier</key>
        <string>com.helvetireader.safari.Helvetireader</string>
-       <key>Team Identifier</key>
+       <key>Developer Identifier</key>
        <string>R8237HS3QS</string>
        <key>CFBundleVersion</key>
        <string>2</string>
