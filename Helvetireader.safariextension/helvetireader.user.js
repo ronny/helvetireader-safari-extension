@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Helvetireader
-// @description Helvetireader style for Google Reader
+// @name        Helvetireader 2
+// @description Helvetireader style for Google Reader that also removes a lot of features so you probably won't like it!
 // @include     https://*.google.com/reader/view/*
 // @include     http://*.google.com/reader/view/*
 // @include     htt*://*.google.*/reader/view*
@@ -18,7 +18,7 @@ head.appendChild(favvy);
 var cssNode = document.createElement('link');
 cssNode.type = 'text/css';
 cssNode.rel = 'stylesheet';
-cssNode.href = 'http://www.helvetireader.com/css/helvetireader.css';
+cssNode.href = 'http://www.helvetireader.com/css/helvetireader.2.css';
 cssNode.media = 'screen';
 cssNode.title = 'dynamicLoadedSheet';
 document.getElementsByTagName("head")[0].appendChild(cssNode);
