@@ -14,7 +14,7 @@
        <key>CFBundleShortVersionString</key>
        <string>2.0</string>
        <key>URL</key>
-       <string>http://github.com/downloads/ronny/helvetireader-safari-extension/Helvetireader.safariextz</string>
+       <string>http://github.com/ronny/helvetireader-safari-extension/raw/master/Helvetireader.safariextz</string>
      </dict>
    </array>
 </dict>
